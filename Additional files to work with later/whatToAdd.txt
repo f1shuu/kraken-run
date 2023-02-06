@@ -1,0 +1,3 @@
+Add parallax effect to main menu background
+Add control buttons support on mobile devices
+Add small icon indicating game version to main menu

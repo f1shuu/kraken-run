@@ -1,4 +1,4 @@
-# Kraken Run - underwater arcade game made with Phaser 3.
+# Kraken Run - arcade game made with Phaser 3.
 
 **Authors:**
 w1shu & f1shu
